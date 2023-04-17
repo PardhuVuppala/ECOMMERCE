@@ -1,1 +1,1 @@
-live Deplyoed Link - https://achuyuth-ecommercewebsite-rjs.netlify.app/
+live Deplyoed Link - https://ecommerce218.netlify.app/
